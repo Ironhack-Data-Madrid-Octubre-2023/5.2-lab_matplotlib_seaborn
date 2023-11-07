@@ -3,7 +3,7 @@
 # Lab | Matplotlib and Seaborn Deep Dive
 
 ## Introduction
-
+Cambio para pull request
 In this lab you will create different types of visualizations using `matplotlib` and `seaborn`: you will plot bar charts, scatter charts and box plots among many others. 
 
 ## Getting Started
