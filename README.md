@@ -8,7 +8,7 @@ In this lab you will create different types of visualizations using `matplotlib`
 
 ## Getting Started
 
-#### Challenge 1
+#### Challenge 1 :(
 Open the `main.ipynb` file in the `your-code` directory. Read the challenges and add your code and comments.
 
 #### Challenge 2 
